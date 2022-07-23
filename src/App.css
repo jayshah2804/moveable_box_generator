@@ -1,0 +1,22 @@
+.wrapper {
+    margin: 5rem;
+}
+
+.container {
+    border: 1px solid black;
+    width: 50%;
+    height: 50vh;
+}
+
+.currentState {
+    display: inline-block;
+}
+
+.toggleElement {
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.elementGenerator {
+    cursor: pointer;
+}
